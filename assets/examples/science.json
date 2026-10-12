@@ -1,0 +1,56 @@
+{
+  "schema": "bgi-edu-article/1",
+  "blocks": [
+    {
+      "id": "title",
+      "type": "heading",
+      "level": 1,
+      "inlines": [
+        {
+          "text": "科普研学排版示例"
+        }
+      ]
+    },
+    {
+      "id": "p0",
+      "type": "paragraph",
+      "role": "intro",
+      "inlines": [
+        {
+          "text": "本页为演示内容，不代表真实活动安排。"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "paragraph",
+      "role": "course",
+      "inlines": [
+        {
+          "text": "活动亮点：观察生命现象，提出可研究的问题。"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "paragraph",
+      "role": "notice",
+      "inlines": [
+        {
+          "text": "适龄、时间和地点：按原稿逐项保留。"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "type": "paragraph",
+      "role": "cta",
+      "inlines": [
+        {
+          "text": "预约方式：保留原稿已有的预约信息。"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

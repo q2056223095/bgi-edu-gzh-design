@@ -1,0 +1,7 @@
+BGI Edu GZH Design 0.1.0 — adaptation for 深圳市华大教育中心, 2026-10-12.
+Upstream: https://github.com/isjiamu/gzh-design-skill
+Attribution: 甲木 × 摸鱼小李. Upstream README copyright: AGPL-3.0 © 2026 甲木 × 摸鱼小李.
+License: GNU Affero General Public License version 3 (LICENSE).
+Derived files: scripts/validate_gzh_html.py (strict checks/parser fixes), scripts/component_lint.py (retained), scripts/wrap_preview.py (escaping), assets/preview-template.html (BGI colors/media note).
+Retrieved blob SHAs: validator a12f90856bd0f58c6697e8332fc32dee9e96f246; lint d7c7b2b3678bba0705217235563517dafc0bb8bc; wrapper 7773ea012bd30856cb4264f8579906b7ba5450e1; preview 20d75314b14e8a1f23702c9d6f33baee61e9f4ce.
+Brand configuration, business recipes, structured extractor, renderer, audit and tests added for this adaptation. No official Logo/IP bundled. Working theme does not represent complete official VI.

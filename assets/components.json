@@ -1,0 +1,16 @@
+{
+  "root": "<section style=\"max-width:677px;margin:0 auto;padding:24px 16px;background:#FFFFFF;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;font-size:16px;line-height:1.8;color:{{text}};letter-spacing:0.3px;overflow-wrap:anywhere;\">{{content}}</section>",
+  "title": "<h2 style=\"margin:0 0 28px;font-size:24px;line-height:1.5;font-weight:800;color:{{title}};\">{{content}}</h2>",
+  "chapter": "<h3 style=\"margin:36px 0 20px;font-size:18px;line-height:1.6;font-weight:800;color:{{title}};{{chapter_style}}\">{{content}}</h3>",
+  "subhead": "<h4 style=\"margin:26px 0 14px;font-size:16px;line-height:1.6;font-weight:700;color:{{ink}};\">{{content}}</h4>",
+  "paragraph": "<p style=\"margin:0 0 20px;font-size:16px;line-height:1.8;text-align:left;\">{{content}}</p>",
+  "mark": "<span style=\"border-bottom:2px solid {{border}};font-weight:600;\">{{content}}</span>",
+  "notice": "<section style=\"margin:0 0 24px;padding:18px;background:{{tint}};border-left:3px solid {{primary}};border-radius:0 {{radius}} {{radius}} 0;box-sizing:border-box;color:{{title}};\">{{content}}</section>",
+  "card": "<section style=\"margin:0 0 24px;padding:18px;background:#FFFFFF;border:1px solid {{border}};border-radius:{{radius}};box-sizing:border-box;\">{{content}}</section>",
+  "cta": "<section style=\"margin:28px 0 24px;padding:22px;background:{{tint}};border:1px solid {{border}};border-radius:{{radius}};color:{{ink}};text-align:center;box-sizing:border-box;\">{{content}}</section>",
+  "caption": "<p style=\"margin:8px 0 24px;font-size:13px;line-height:1.7;color:{{secondary}};text-align:center;\">{{content}}</p>",
+  "reference": "<p style=\"margin:0 0 16px;font-size:14px;line-height:1.8;color:{{secondary}};\">{{content}}</p>",
+  "image": "<section style=\"margin:0 0 24px;text-align:center;\"><span leaf=\"\">{{content}}</span></section>",
+  "table": "<section style=\"margin:0 0 24px;max-width:100%;overflow-x:auto;\"><table style=\"width:100%;border-collapse:collapse;font-size:14px;line-height:1.8;\">{{content}}</table></section>",
+  "code": "<section style=\"margin:0 0 24px;padding:16px;background:#F5F8FA;border-left:3px solid {{primary}};font-family:Consolas,monospace;font-size:14px;line-height:1.7;overflow-wrap:anywhere;\">{{content}}</section>"
+}

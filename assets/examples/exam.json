@@ -1,0 +1,66 @@
+{
+  "schema": "bgi-edu-article/1",
+  "blocks": [
+    {
+      "id": "title",
+      "type": "heading",
+      "level": 1,
+      "inlines": [
+        {
+          "text": "认证考试排版示例"
+        }
+      ]
+    },
+    {
+      "id": "p0",
+      "type": "paragraph",
+      "role": "intro",
+      "inlines": [
+        {
+          "text": "本页为演示内容，不代表真实考试安排。"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "paragraph",
+      "role": "exam",
+      "inlines": [
+        {
+          "text": "示例考试科目：专业基础知识。"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "paragraph",
+      "role": "notice",
+      "inlines": [
+        {
+          "text": "报名截止：按原稿填写日期与时间。"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "type": "paragraph",
+      "role": "body",
+      "inlines": [
+        {
+          "text": "考试形式：按原稿说明设备要求及考试规则。"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "type": "paragraph",
+      "role": "cta",
+      "inlines": [
+        {
+          "text": "报名入口：保留原稿已有链接与二维码。"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "bgi-edu-article/1",
+  "blocks": [
+    {
+      "id": "title",
+      "type": "heading",
+      "level": 1,
+      "inlines": [
+        {
+          "text": "课程招生排版示例"
+        }
+      ]
+    },
+    {
+      "id": "p0",
+      "type": "paragraph",
+      "role": "intro",
+      "inlines": [
+        {
+          "text": "本页为演示内容，不代表真实招生信息。"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "paragraph",
+      "role": "course",
+      "inlines": [
+        {
+          "text": "课程概览：面向有学习需求的生命科学学习者。"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "paragraph",
+      "role": "teacher",
+      "inlines": [
+        {
+          "text": "讲师介绍：保留原稿中的姓名、资历和照片。"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "type": "paragraph",
+      "role": "price",
+      "inlines": [
+        {
+          "text": "版本权益：按来源逐项展示，不补充未提供权益。"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "type": "paragraph",
+      "role": "cta",
+      "inlines": [
+        {
+          "text": "咨询方式：在这里保留原稿已有的咨询引导。"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

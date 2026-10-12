@@ -1,0 +1,4 @@
+interface:
+  display_name: "华大教育公众号排版"
+  short_description: "按华大教育品牌规范排版课程、认证、科普与合作新闻推文"
+  default_prompt: "请使用 $bgi-edu-gzh-design 将这篇稿件排版为华大教育公众号 HTML，保留内容与配图。"

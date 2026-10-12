@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "organization": "深圳市华大教育中心",
+  "short_names": ["华大教育中心", "华大教育"],
+  "platform_name": "华大华生",
+  "default_theme": "standard",
+  "themes": {
+    "standard": {"name": "华大青·标准版", "primary": "#00ACD2", "ink": "#00758F", "tint": "#F0FBFD", "border": "#A6E2EF", "title": "#1C2933", "text": "#374151", "secondary": "#687680", "radius": "10px", "chapter_style": "border-left:3px solid {{primary}};padding-left:12px;"},
+    "professional": {"name": "华大青·专业版", "primary": "#00ACD2", "ink": "#00758F", "tint": "#F5F8FA", "border": "#C6E7EE", "title": "#142D42", "text": "#374151", "secondary": "#687680", "radius": "4px", "chapter_style": "border-bottom:1px solid {{border}};padding-bottom:14px;"},
+    "friendly": {"name": "科学教育·亲和版", "primary": "#00ACD2", "ink": "#00758F", "tint": "#F2FBFA", "border": "#B5E8E3", "title": "#213E43", "text": "#374151", "secondary": "#687680", "radius": "16px", "chapter_style": "background:{{tint}};padding:14px;border-radius:{{radius}};"}
+  }
+}

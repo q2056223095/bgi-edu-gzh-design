@@ -1,0 +1,56 @@
+{
+  "schema": "bgi-edu-article/1",
+  "blocks": [
+    {
+      "id": "title",
+      "type": "heading",
+      "level": 1,
+      "inlines": [
+        {
+          "text": "合作新闻排版示例"
+        }
+      ]
+    },
+    {
+      "id": "p0",
+      "type": "paragraph",
+      "role": "intro",
+      "inlines": [
+        {
+          "text": "本页为演示内容，不代表真实合作报道。"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "paragraph",
+      "role": "body",
+      "inlines": [
+        {
+          "text": "事件概况：保留机构主体、行动和合作方角色。"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "paragraph",
+      "role": "caption",
+      "inlines": [
+        {
+          "text": "配图说明仅在原稿提供时保留。"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "type": "paragraph",
+      "role": "body",
+      "inlines": [
+        {
+          "text": "成果信息：保持原稿证据强度，不添加报名引导。"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

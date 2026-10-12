@@ -1,0 +1,53 @@
+{
+  "schema": "bgi-edu-article/1",
+  "blocks": [
+    {
+      "id": "title",
+      "type": "heading",
+      "level": 1,
+      "inlines": [
+        {
+          "text": "科学知识排版示例"
+        }
+      ]
+    },
+    {
+      "id": "p0",
+      "type": "paragraph",
+      "role": "intro",
+      "inlines": [
+        {
+          "text": "本页为排版演示，不构成科学结论。"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "paragraph",
+      "role": "body",
+      "inlines": [
+        {
+          "text": "问题与解释：用清晰层级承载原稿内容。"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "paragraph",
+      "role": "reference",
+      "inlines": [
+        {
+          "text": "参考来源："
+        },
+        {
+          "text": "示例来源",
+          "href": "https://example.org/reference"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
